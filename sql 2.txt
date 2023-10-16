@@ -1,0 +1,5 @@
+SELECT REPLACE('hello world', 'hell','@#$%');
+
+SELECT REPLACE(title, 'e', '3') from books; title col er sob 3 hoye dekhabe
+
+SELECT REPLACE(title, 'e', '*') from books;
